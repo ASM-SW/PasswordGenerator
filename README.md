@@ -7,8 +7,10 @@ This is based on:
      https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/
  
 
-Configuration information is stored in teh application data dir:  
-  C:\Users\<USERNAME>\AppData\Roaming\PasswordGen\Configuration.xml
+Configuration information is stored in the application data dir:  
+
+    C:\Users\<USERNAME>\AppData\Roaming\PasswordGen\Configuration.xml
+    
 The following items are remembered:
 - Dictionary file
 - Special character list
